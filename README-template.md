@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.Captura%20de%20Tela%20(2).png)
+![](https://github.com/CodeyBrodey/Frontend-Mentor/blob/main/Captura%20de%20Tela%20(2).png)
 
 ### Links
 
